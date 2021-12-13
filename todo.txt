@@ -1,0 +1,11 @@
+scraper
+    scraper not catching underlines, italics, etc https://www.quakeworld.nu/forum/topic/28
+    bb-code divs https://www.quakeworld.nu/forum/topic/28
+    don't forget exclude quote and bb quote
+    didn't scrape quake news
+
+raw text cleaning
+
+
+features
+    activity based: frequency and month
